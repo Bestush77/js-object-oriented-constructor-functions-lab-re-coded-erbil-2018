@@ -17,9 +17,9 @@ class Driver{
 }
 class PickupLocation{
   constructor(address, city){
-    this.year = year;
-    this.color= color;
-    this.model= model;
+    this.city = city;
+    this.address= addrress;
+    
     
   }
 }
